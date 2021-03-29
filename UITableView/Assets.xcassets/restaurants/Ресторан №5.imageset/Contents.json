@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Ресторан №5.jpeg",
+      "filename" : "Ресторан №5.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Ресторан №5-1.jpeg",
+      "filename" : "Ресторан №5-1.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Ресторан №5-2.jpeg",
+      "filename" : "Ресторан №5-2.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }

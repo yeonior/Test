@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Ресторан №8.jpg",
+      "filename" : "LaunchScreen.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Ресторан №8-1.jpg",
+      "filename" : "LaunchScreen-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Ресторан №8-2.jpg",
+      "filename" : "LaunchScreen-2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
